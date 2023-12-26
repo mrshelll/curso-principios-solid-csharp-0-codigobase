@@ -1,0 +1,1 @@
+# curso-principios-solid-csharp-0-codigobase
